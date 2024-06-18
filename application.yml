@@ -7,5 +7,5 @@ eureka:
     instance:
         prefer-ip-address: true
 spring:
- application:
-  name: Tribhuwan_Pal
+  application:
+    name: UserServices

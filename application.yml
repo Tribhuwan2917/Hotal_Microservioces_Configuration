@@ -6,6 +6,7 @@ eureka:
             defaultZone: http://localhost:900/eureka/
     instance:
         prefer-ip-address: true
+        lease-renewal-interval-in-seconds: 49
 # spring:
 #   application:
 #     name: UserServices678897
